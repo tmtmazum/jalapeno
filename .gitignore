@@ -34,3 +34,20 @@
 # VS
 *.sln
 *.vcxproj
+*.filters
+*.db
+*.opendb
+*.suo
+
+# Generated Files
+*.log
+*.tlog
+*.lastbuildstate
+unsuccessfulbuild
+*.pdb
+*.ilk
+*/_rcc_/*
+
+# VIM
+*.swo
+*.swp
