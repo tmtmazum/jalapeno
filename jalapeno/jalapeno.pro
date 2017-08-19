@@ -30,7 +30,7 @@ HEADERS += $$PWD/src/*.md
 HEADERS += $$PWD/*.md
 SOURCES += $$PWD/src/*.cpp
 
-LIBS += common.lib
+LIBS += common.lib opengl32.lib
 
 # Target Output : Project File
 TARGET = jalapeno
